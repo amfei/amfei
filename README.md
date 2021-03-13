@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amfei
+- 👋 Hi, I’m Amir
 - 👀 I’m interested in AI/Machine learning, data science and optimization
 - 🌱 I’m currently learning ML model validation   
 - 💞️ I’m looking to collaborate on Deep Reinforcement learning
