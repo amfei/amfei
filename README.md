@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Amir
-- 👀 I’m interested in AI/Machine learning, data science and optimization
-- 🌱 I’m currently learning ML model validation   
-- 💞️ I’m looking to collaborate on Deep Reinforcement learning
+- 👋 Hi, I’m Amir!
+- 👀 Interested in AI/Machine learning, data science and optimization
+- 🌱 Currently learning ML model validation and Time series prediction usinf deep learning   
+- 💞️ Looking to collaborate on Deep Reinforcement learning
 - 📫 How to reach me: amir.feizi@polymtl.ca
 
 <!---
